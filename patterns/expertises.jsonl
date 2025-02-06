@@ -1,0 +1,282 @@
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "and"}, {"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "managers"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "architectural"}, {"LOWER": "and"}, {"LOWER": "engineering"}, {"LOWER": "managers"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "logistics"}, {"LOWER": "engineers"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "logistics"}, {"LOWER": "analysts"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "management"}, {"LOWER": "analysts"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "business"}, {"LOWER": "continuity"}, {"LOWER": "planners"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "security"}, {"LOWER": "management"}, {"LOWER": "specialists"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "energy"}, {"LOWER": "auditors"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "accountants"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "auditors"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "credit"}, {"LOWER": "analysts"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "financial"}, {"LOWER": "analysts"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "budget"}, {"LOWER": "analysts"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "and"}, {"LOWER": "information"}, {"LOWER": "research"}, {"LOWER": "scientists"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "systems"}, {"LOWER": "analysts"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "information"}, {"LOWER": "security"}, {"LOWER": "analysts"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "programmers"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "software"}, {"LOWER": "developers,"}, {"LOWER": "applications"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "software"}, {"LOWER": "developers,"}, {"LOWER": "systems"}, {"LOWER": "software"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "web"}, {"LOWER": "developers"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "database"}, {"LOWER": "administrators"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "network"}, {"LOWER": "and"}, {"LOWER": "computer"}, {"LOWER": "systems"}, {"LOWER": "administrators"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "network"}, {"LOWER": "architects"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "telecommunications"}, {"LOWER": "engineering"}, {"LOWER": "specialists"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "user"}, {"LOWER": "support"}, {"LOWER": "specialists"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "network"}, {"LOWER": "support"}, {"LOWER": "specialists"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "software"}, {"LOWER": "quality"}, {"LOWER": "assurance"}, {"LOWER": "engineers"}, {"LOWER": "and"}, {"LOWER": "testers"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "systems"}, {"LOWER": "engineers/architects"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "web"}, {"LOWER": "administrators"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "geospatial"}, {"LOWER": "information"}, {"LOWER": "scientists"}, {"LOWER": "and"}, {"LOWER": "technologists"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "geographic"}, {"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "technicians"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "database"}, {"LOWER": "architects"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "data"}, {"LOWER": "warehousing"}, {"LOWER": "specialists"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "business"}, {"LOWER": "intelligence"}, {"LOWER": "analysts"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "information"}, {"LOWER": "technology"}, {"LOWER": "project"}, {"LOWER": "managers"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "video"}, {"LOWER": "game"}, {"LOWER": "designers"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "hardware"}, {"LOWER": "engineers"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "robotics"}, {"LOWER": "technicians"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "bioinformatics"}, {"LOWER": "scientists"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "remote"}, {"LOWER": "sensing"}, {"LOWER": "scientists"}, {"LOWER": "and"}, {"LOWER": "technologists"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "science"}, {"LOWER": "teachers,"}, {"LOWER": "postsecondary"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "instructional"}, {"LOWER": "designers"}, {"LOWER": "and"}, {"LOWER": "technologists"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "technical"}, {"LOWER": "writers"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "technical"}, {"LOWER": "directors/managers"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "audio"}, {"LOWER": "and"}, {"LOWER": "video"}, {"LOWER": "equipment"}, {"LOWER": "technicians"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "broadcast"}, {"LOWER": "technicians"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "sound"}, {"LOWER": "engineering"}, {"LOWER": "technicians"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "camera"}, {"LOWER": "operators,"}, {"LOWER": "television,"}, {"LOWER": "video,"}, {"LOWER": "and"}, {"LOWER": "motion"}, {"LOWER": "picture"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "film"}, {"LOWER": "and"}, {"LOWER": "video"}, {"LOWER": "editors"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "operators"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "data"}, {"LOWER": "entry"}, {"LOWER": "keyers"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "word"}, {"LOWER": "processors"}, {"LOWER": "and"}, {"LOWER": "typists"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "desktop"}, {"LOWER": "publishers"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "bioinformatics"}, {"LOWER": "technicians"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "automated"}, {"LOWER": "teller"}, {"LOWER": "and"}, {"LOWER": "office"}, {"LOWER": "machine"}, {"LOWER": "repairers"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "telecommunications"}, {"LOWER": "equipment"}, {"LOWER": "installers"}, {"LOWER": "and"}, {"LOWER": "repairers"}, {"LOWER": "except"}, {"LOWER": "line"}, {"LOWER": "installers"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer-controlled"}, {"LOWER": "machine"}, {"LOWER": "tool"}, {"LOWER": "operators,"}, {"LOWER": "metal"}, {"LOWER": "and"}, {"LOWER": "plastic"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "numerically"}, {"LOWER": "controlled"}, {"LOWER": "machine"}, {"LOWER": "tool"}, {"LOWER": "programmers,"}, {"LOWER": "metal"}, {"LOWER": "and"}, {"LOWER": "plastic"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "semiconductor"}, {"LOWER": "processors"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "and"}, {"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "manager"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "and"}, {"LOWER": "information"}, {"LOWER": "research"}, {"LOWER": "scientist"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "systems"}, {"LOWER": "analyst"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "information"}, {"LOWER": "security"}, {"LOWER": "analyst"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "programmer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "software"}, {"LOWER": "developers,"}, {"LOWER": "application"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "web"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "database"}, {"LOWER": "administrator"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "network"}, {"LOWER": "and"}, {"LOWER": "computer"}, {"LOWER": "systems"}, {"LOWER": "administrator"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "network"}, {"LOWER": "architect"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "user"}, {"LOWER": "support"}, {"LOWER": "specialist"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "network"}, {"LOWER": "support"}, {"LOWER": "specialist"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "software"}, {"LOWER": "quality"}, {"LOWER": "assurance"}, {"LOWER": "engineers"}, {"LOWER": "and"}, {"LOWER": "tester"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "systems"}, {"LOWER": "engineers/architect"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "web"}, {"LOWER": "administrator"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "database"}, {"LOWER": "architect"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "data"}, {"LOWER": "warehousing"}, {"LOWER": "specialist"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "business"}, {"LOWER": "intelligence"}, {"LOWER": "analyst"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "information"}, {"LOWER": "technology"}, {"LOWER": "project"}, {"LOWER": "manager"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "video"}, {"LOWER": "game"}, {"LOWER": "designer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "hardware"}, {"LOWER": "engineer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "bioinformatics"}, {"LOWER": "scientist"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "remote"}, {"LOWER": "sensing"}, {"LOWER": "scientists"}, {"LOWER": "and"}, {"LOWER": "technologist"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "instructional"}, {"LOWER": "designers"}, {"LOWER": "and"}, {"LOWER": "technologist"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "technical"}, {"LOWER": "writers"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "audio"}, {"LOWER": "and"}, {"LOWER": "video"}, {"LOWER": "equipment"}, {"LOWER": "technician"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "broadcast"}, {"LOWER": "technician"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "sound"}, {"LOWER": "engineering"}, {"LOWER": "technician"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "medical"}, {"LOWER": "records"}, {"LOWER": "and"}, {"LOWER": "health"}, {"LOWER": "information"}, {"LOWER": "technician"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "programmer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "software"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "web"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "it"}, {"LOWER": "consultant"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "engineer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "database"}, {"LOWER": "administrator"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "network"}, {"LOWER": "administrator"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "system"}, {"LOWER": "administrator"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "data"}, {"LOWER": "analyst"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "cloud"}, {"LOWER": "engineer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "engineer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "it"}, {"LOWER": "support"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "cyber"}, {"LOWER": "security"}, {"LOWER": "specialist"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "network"}, {"LOWER": "security"}, {"LOWER": "specialist"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "software"}, {"LOWER": "tester"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "ux"}, {"LOWER": "designer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "front-end"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "frontend"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "back-end"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "backend"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "full-stack"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "android"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "ios"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "devops"}, {"LOWER": "engineer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "database"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "python"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "java"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "javascript"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "ruby"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "c++"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "sql"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "c#"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "html"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "css"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "ruby"}, {"LOWER": "on"}, {"LOWER": "rails"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "agile"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "operator"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "data"}, {"LOWER": "entry"}, {"LOWER": "keyer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "word"}, {"LOWER": "processors"}, {"LOWER": "and"}, {"LOWER": "typist"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "desktop"}, {"LOWER": "publisher"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "bioinformatics"}, {"LOWER": "technician"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer,"}, {"LOWER": "automated"}, {"LOWER": "teller,"}, {"LOWER": "and"}, {"LOWER": "office"}, {"LOWER": "machine"}, {"LOWER": "repairer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "radio,"}, {"LOWER": "cellular,"}, {"LOWER": "and"}, {"LOWER": "tower"}, {"LOWER": "equipment"}, {"LOWER": "installers"}, {"LOWER": "and"}, {"LOWER": "repairer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "radio"}, {"LOWER": "mechanic"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "telecommunications"}, {"LOWER": "equipment"}, {"LOWER": "installers"}, {"LOWER": "and"}, {"LOWER": "repairers,"}, {"LOWER": "except"}, {"LOWER": "line"}, {"LOWER": "installer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "avionics"}, {"LOWER": "technician"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "electronic"}, {"LOWER": "equipment"}, {"LOWER": "installers"}, {"LOWER": "and"}, {"LOWER": "repairers,"}, {"LOWER": "motor"}, {"LOWER": "vehicle"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "electronic"}, {"LOWER": "home"}, {"LOWER": "entertainment"}, {"LOWER": "equipment"}, {"LOWER": "installers"}, {"LOWER": "and"}, {"LOWER": "repairer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "security"}, {"LOWER": "and"}, {"LOWER": "fire"}, {"LOWER": "alarm"}, {"LOWER": "systems"}, {"LOWER": "installer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "camera"}, {"LOWER": "and"}, {"LOWER": "photographic"}, {"LOWER": "equipment"}, {"LOWER": "repairer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "medical"}, {"LOWER": "equipment"}, {"LOWER": "repairer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "coin,"}, {"LOWER": "vending,"}, {"LOWER": "and"}, {"LOWER": "amusement"}, {"LOWER": "machine"}, {"LOWER": "servicers"}, {"LOWER": "and"}, {"LOWER": "repairer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "electrical"}, {"LOWER": "and"}, {"LOWER": "electronic"}, {"LOWER": "equipment"}, {"LOWER": "assembler"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "electromechanical"}, {"LOWER": "equipment"}, {"LOWER": "assembler"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "semiconductor"}, {"LOWER": "processor"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "software"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "data"}, {"LOWER": "scientist"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "network"}, {"LOWER": "administrator"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "systems"}, {"LOWER": "analyst"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "cloud"}, {"LOWER": "engineer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "database"}, {"LOWER": "administrator"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "web"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "analyst"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "artificial"}, {"LOWER": "intelligence"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "machine"}, {"LOWER": "learning"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "it"}, {"LOWER": "consultant"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "mobile"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "software"}, {"LOWER": "engineer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "devops"}, {"LOWER": "engineer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "data"}, {"LOWER": "analyst"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "ux"}, {"LOWER": "designer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "seo"}, {"LOWER": "specialist"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "front-end"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "back-end"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "full-stack"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "game"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "it"}, {"LOWER": "support"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "hardware"}, {"LOWER": "technician"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "business"}, {"LOWER": "analyst"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "robotics"}, {"LOWER": "engineer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "data"}, {"LOWER": "engineer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "quantitative"}, {"LOWER": "analyst"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "seo"}, {"LOWER": "engineer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "cloud"}, {"LOWER": "architect"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "enterprise"}, {"LOWER": "architect"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "it"}, {"LOWER": "project"}, {"LOWER": "manager"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "cloud"}, {"LOWER": "administrator"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "it"}, {"LOWER": "security"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "penetration"}, {"LOWER": "tester"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "ethical"}, {"LOWER": "hacker"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "cloud"}, {"LOWER": "security"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "cloud"}, {"LOWER": "consultant"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "database"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "data"}, {"LOWER": "scientist"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "big"}, {"LOWER": "data"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "android"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "ios"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "systems"}, {"LOWER": "administrator"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "business"}, {"LOWER": "intelligence"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "cloud"}, {"LOWER": "specialist"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "digital"}, {"LOWER": "marketer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "technical"}, {"LOWER": "writer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "project"}, {"LOWER": "manager"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "it"}, {"LOWER": "trainer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "agile"}, {"LOWER": "coach"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "enterprise"}, {"LOWER": "software"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "mobile"}, {"LOWER": "app"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "iot"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "user"}, {"LOWER": "experience"}, {"LOWER": "researcher"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "machine"}, {"LOWER": "vision"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "natural"}, {"LOWER": "language"}, {"LOWER": "processing"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "deep"}, {"LOWER": "learning"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "cognitive"}, {"LOWER": "computing"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "computer"}, {"LOWER": "vision"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "it"}, {"LOWER": "director"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "infrastructure"}, {"LOWER": "engineer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "technical"}, {"LOWER": "support"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "data"}, {"LOWER": "visualization"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "business"}, {"LOWER": "analyst"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "python"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "java"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "javascript"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "sql"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "ruby"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "php"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "r"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "c#"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "go"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "node.js"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "angular"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "react"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "vue.js"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "swift"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "objective-c"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "backend"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "back-end"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "backend"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "back-end"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "front-end"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "front"}, {"LOWER": "end"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "full-stack"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "full"}, {"LOWER": "stack"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "software"}, {"LOWER": "engineer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "web"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "cloud"}, {"LOWER": "engineer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "data"}, {"LOWER": "scientist"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "analyst"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "it"}, {"LOWER": "consultant"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "database"}, {"LOWER": "administrator"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "software"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "java"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "python"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "javascript"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "ruby"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "php"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "sql"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "r"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "c#"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "c++"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "go"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "node.js"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "angular"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "react"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "vue.js"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "swift"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "objective-c"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "ui/ux"}, {"LOWER": "designer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "ux"}, {"LOWER": "designer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "front-end"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "backend"}, {"LOWER": "engineer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "back-end"}, {"LOWER": "engineer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "cloud"}, {"LOWER": "architect"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "data"}, {"LOWER": "engineer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "data"}, {"LOWER": "analyst"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "data"}, {"LOWER": "visualization"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "it"}, {"LOWER": "project"}, {"LOWER": "manager"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "agile"}, {"LOWER": "coach"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "business"}, {"LOWER": "analyst"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "machine"}, {"LOWER": "learning"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "artificial"}, {"LOWER": "intelligence"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "it"}, {"LOWER": "trainer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "developer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "ethical"}, {"LOWER": "hacker"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "penetration"}, {"LOWER": "tester"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "robotics"}, {"LOWER": "engineer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "it"}, {"LOWER": "director"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "systems"}, {"LOWER": "administrator"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "infrastructure"}, {"LOWER": "engineer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "digital"}, {"LOWER": "marketer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "cloud"}, {"LOWER": "specialist"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "it"}, {"LOWER": "security"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "technical"}, {"LOWER": "writer"}]}
+{"label": "Expertise", "pattern": [{"LOWER": "agile"}, {"LOWER": "developer"}]}

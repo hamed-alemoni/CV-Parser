@@ -1,0 +1,156 @@
+{"label": "Major", "pattern": [{"LOWER": "computer"}, {"LOWER": "science"}]}
+{"label": "Major", "pattern": [{"LOWER": "computer"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "software"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "information"}, {"LOWER": "technology"}]}
+{"label": "Major", "pattern": [{"LOWER": "data"}, {"LOWER": "science"}]}
+{"label": "Major", "pattern": [{"LOWER": "artificial"}, {"LOWER": "intelligence"}]}
+{"label": "Major", "pattern": [{"LOWER": "cybersecurity"}]}
+{"label": "Major", "pattern": [{"LOWER": "machine"}, {"LOWER": "learning"}]}
+{"label": "Major", "pattern": [{"LOWER": "network"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}]}
+{"label": "Major", "pattern": [{"LOWER": "computer"}, {"LOWER": "systems"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "computational"}, {"LOWER": "science"}]}
+{"label": "Major", "pattern": [{"LOWER": "information"}, {"LOWER": "and"}, {"LOWER": "computer"}, {"LOWER": "science"}]}
+{"label": "Major", "pattern": [{"LOWER": "systems"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "human"}, {"LOWER": "computer"}, {"LOWER": "interaction"}]}
+{"label": "Major", "pattern": [{"LOWER": "data"}, {"LOWER": "analytics"}]}
+{"label": "Major", "pattern": [{"LOWER": "cloud"}, {"LOWER": "computing"}]}
+{"label": "Major", "pattern": [{"LOWER": "digital"}, {"LOWER": "forensics"}]}
+{"label": "Major", "pattern": [{"LOWER": "game"}, {"LOWER": "development"}, {"LOWER": "and"}, {"LOWER": "design"}]}
+{"label": "Major", "pattern": [{"LOWER": "virtual"}, {"LOWER": "reality"}]}
+{"label": "Major", "pattern": [{"LOWER": "augmented"}, {"LOWER": "reality"}]}
+{"label": "Major", "pattern": [{"LOWER": "robotics"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "computer"}, {"LOWER": "graphics"}, {"LOWER": "and"}, {"LOWER": "visualization"}]}
+{"label": "Major", "pattern": [{"LOWER": "web"}, {"LOWER": "development"}, {"LOWER": "and"}, {"LOWER": "design"}]}
+{"label": "Major", "pattern": [{"LOWER": "embedded"}, {"LOWER": "systems"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "software"}, {"LOWER": "development"}]}
+{"label": "Major", "pattern": [{"LOWER": "internet"}, {"LOWER": "of"}, {"LOWER": "things"}]}
+{"label": "Major", "pattern": [{"LOWER": "network"}, {"LOWER": "security"}]}
+{"label": "Major", "pattern": [{"LOWER": "high"}, {"LOWER": "performance"}, {"LOWER": "computing"}]}
+{"label": "Major", "pattern": [{"LOWER": "digital"}, {"LOWER": "systems"}, {"LOWER": "and"}, {"LOWER": "design"}]}
+{"label": "Major", "pattern": [{"LOWER": "bioinformatics"}]}
+{"label": "Major", "pattern": [{"LOWER": "computational"}, {"LOWER": "biology"}]}
+{"label": "Major", "pattern": [{"LOWER": "computational"}, {"LOWER": "chemistry"}]}
+{"label": "Major", "pattern": [{"LOWER": "health"}, {"LOWER": "informatics"}]}
+{"label": "Major", "pattern": [{"LOWER": "business"}, {"LOWER": "information"}, {"LOWER": "systems"}]}
+{"label": "Major", "pattern": [{"LOWER": "educational"}, {"LOWER": "technology"}]}
+{"label": "Major", "pattern": [{"LOWER": "media"}, {"LOWER": "informatics"}]}
+{"label": "Major", "pattern": [{"LOWER": "computational"}, {"LOWER": "neuroscience"}]}
+{"label": "Major", "pattern": [{"LOWER": "geographic"}, {"LOWER": "information"}, {"LOWER": "systems"}]}
+{"label": "Major", "pattern": [{"LOWER": "computational"}, {"LOWER": "physics"}]}
+{"label": "Major", "pattern": [{"LOWER": "data"}, {"LOWER": "driven"}, {"LOWER": "journalism"}]}
+{"label": "Major", "pattern": [{"LOWER": "digital"}, {"LOWER": "humanities"}]}
+{"label": "Major", "pattern": [{"LOWER": "mechatronics"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "technology"}]}
+{"label": "Major", "pattern": [{"LOWER": "quantum"}, {"LOWER": "computing"}]}
+{"label": "Major", "pattern": [{"LOWER": "cyber"}, {"LOWER": "physical"}, {"LOWER": "systems"}]}
+{"label": "Major", "pattern": [{"LOWER": "autonomous"}, {"LOWER": "systems"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "ethical"}, {"LOWER": "hacking"}, {"LOWER": "and"}, {"LOWER": "security"}]}
+{"label": "Major", "pattern": [{"LOWER": "devops"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "ai"}, {"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "governance"}]}
+{"label": "Major", "pattern": [{"LOWER": "it"}, {"LOWER": "project"}, {"LOWER": "management"}]}
+{"label": "Major", "pattern": [{"LOWER": "digital"}, {"LOWER": "transformation"}]}
+{"label": "Major", "pattern": [{"LOWER": "augmented"}, {"LOWER": "intelligence"}]}
+{"label": "Major", "pattern": [{"LOWER": "smart"}, {"LOWER": "systems"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "management"}, {"LOWER": "information"}, {"LOWER": "systems"}]}
+{"label": "Major", "pattern": [{"LOWER": "it"}, {"LOWER": "management"}]}
+{"label": "Major", "pattern": [{"LOWER": "business"}, {"LOWER": "analytics"}]}
+{"label": "Major", "pattern": [{"LOWER": "technology"}, {"LOWER": "management"}]}
+{"label": "Major", "pattern": [{"LOWER": "digital"}, {"LOWER": "marketing"}, {"LOWER": "analytics"}]}
+{"label": "Major", "pattern": [{"LOWER": "e"}, {"LOWER": "commerce"}, {"LOWER": "and"}, {"LOWER": "web"}, {"LOWER": "technology"}]}
+{"label": "Major", "pattern": [{"LOWER": "electrical"}, {"LOWER": "and"}, {"LOWER": "computer"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "electronics"}, {"LOWER": "and"}, {"LOWER": "communication"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "instrumentation"}, {"LOWER": "and"}, {"LOWER": "control"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "telecommunications"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "automation"}, {"LOWER": "and"}, {"LOWER": "control"}, {"LOWER": "systems"}]}
+{"label": "Major", "pattern": [{"LOWER": "digital"}, {"LOWER": "media"}, {"LOWER": "design"}]}
+{"label": "Major", "pattern": [{"LOWER": "interaction"}, {"LOWER": "design"}]}
+{"label": "Major", "pattern": [{"LOWER": "visual"}, {"LOWER": "computing"}]}
+{"label": "Major", "pattern": [{"LOWER": "game"}, {"LOWER": "art"}, {"LOWER": "and"}, {"LOWER": "animation"}]}
+{"label": "Major", "pattern": [{"LOWER": "3d"}, {"LOWER": "modeling"}, {"LOWER": "and"}, {"LOWER": "simulation"}]}
+{"label": "Major", "pattern": [{"LOWER": "artificial"}, {"LOWER": "intelligence"}, {"LOWER": "and"}, {"LOWER": "robotics"}]}
+{"label": "Major", "pattern": [{"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "big"}, {"LOWER": "data"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "and"}, {"LOWER": "threat"}, {"LOWER": "intelligence"}]}
+{"label": "Major", "pattern": [{"LOWER": "data"}, {"LOWER": "privacy"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "cloud"}, {"LOWER": "architecture"}]}
+{"label": "Major", "pattern": [{"LOWER": "advanced"}, {"LOWER": "networking"}]}
+{"label": "Major", "pattern": [{"LOWER": "virtualization"}, {"LOWER": "and"}, {"LOWER": "cloud"}, {"LOWER": "computing"}]}
+{"label": "Major", "pattern": [{"LOWER": "software"}, {"LOWER": "quality"}, {"LOWER": "assurance"}]}
+{"label": "Major", "pattern": [{"LOWER": "digital"}, {"LOWER": "signal"}, {"LOWER": "processing"}]}
+{"label": "Major", "pattern": [{"LOWER": "mobile"}, {"LOWER": "application"}, {"LOWER": "development"}]}
+{"label": "Major", "pattern": [{"LOWER": "database"}, {"LOWER": "management"}, {"LOWER": "and"}, {"LOWER": "design"}]}
+{"label": "Major", "pattern": [{"LOWER": "it"}, {"LOWER": "support"}, {"LOWER": "and"}, {"LOWER": "administration"}]}
+{"label": "Major", "pattern": [{"LOWER": "technology"}, {"LOWER": "infrastructure"}]}
+{"label": "Major", "pattern": [{"LOWER": "computer"}, {"LOWER": "programming"}]}
+{"label": "Major", "pattern": [{"LOWER": "technical"}, {"LOWER": "computing"}]}
+{"label": "Major", "pattern": [{"LOWER": "neuromorphic"}, {"LOWER": "computing"}]}
+{"label": "Major", "pattern": [{"LOWER": "digital"}, {"LOWER": "agriculture"}, {"LOWER": "technology"}]}
+{"label": "Major", "pattern": [{"LOWER": "computational"}, {"LOWER": "linguistics"}]}
+{"label": "Major", "pattern": [{"LOWER": "information"}, {"LOWER": "retrieval"}, {"LOWER": "systems"}]}
+{"label": "Major", "pattern": [{"LOWER": "computer"}, {"LOWER": "aided"}, {"LOWER": "design"}]}
+{"label": "Major", "pattern": [{"LOWER": "computational"}, {"LOWER": "economics"}]}
+{"label": "Major", "pattern": [{"LOWER": "digital"}, {"LOWER": "entrepreneurship"}]}
+{"label": "Major", "pattern": [{"LOWER": "immersive"}, {"LOWER": "technologies"}]}
+{"label": "Major", "pattern": [{"LOWER": "spatial"}, {"LOWER": "computing"}]}
+{"label": "Major", "pattern": [{"LOWER": "computer"}, {"LOWER": "science"}]}
+{"label": "Major", "pattern": [{"LOWER": "computer"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "software"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "information"}, {"LOWER": "technology"}]}
+{"label": "Major", "pattern": [{"LOWER": "data"}, {"LOWER": "science"}]}
+{"label": "Major", "pattern": [{"LOWER": "artificial"}, {"LOWER": "intelligence"}]}
+{"label": "Major", "pattern": [{"LOWER": "cybersecurity"}]}
+{"label": "Major", "pattern": [{"LOWER": "machine"}, {"LOWER": "learning"}]}
+{"label": "Major", "pattern": [{"LOWER": "network"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}]}
+{"label": "Major", "pattern": [{"LOWER": "computer"}, {"LOWER": "systems"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "computational"}, {"LOWER": "science"}]}
+{"label": "Major", "pattern": [{"LOWER": "information"}, {"LOWER": "and"}, {"LOWER": "computer"}, {"LOWER": "science"}]}
+{"label": "Major", "pattern": [{"LOWER": "systems"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "human"}, {"LOWER": "computer"}, {"LOWER": "interaction"}]}
+{"label": "Major", "pattern": [{"LOWER": "data"}, {"LOWER": "analytics"}]}
+{"label": "Major", "pattern": [{"LOWER": "cloud"}, {"LOWER": "computing"}]}
+{"label": "Major", "pattern": [{"LOWER": "digital"}, {"LOWER": "forensics"}]}
+{"label": "Major", "pattern": [{"LOWER": "game"}, {"LOWER": "development"}, {"LOWER": "and"}, {"LOWER": "design"}]}
+{"label": "Major", "pattern": [{"LOWER": "virtual"}, {"LOWER": "reality"}]}
+{"label": "Major", "pattern": [{"LOWER": "augmented"}, {"LOWER": "reality"}]}
+{"label": "Major", "pattern": [{"LOWER": "robotics"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "computer"}, {"LOWER": "graphics"}, {"LOWER": "and"}, {"LOWER": "visualization"}]}
+{"label": "Major", "pattern": [{"LOWER": "web"}, {"LOWER": "development"}, {"LOWER": "and"}, {"LOWER": "design"}]}
+{"label": "Major", "pattern": [{"LOWER": "embedded"}, {"LOWER": "systems"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "software"}, {"LOWER": "development"}]}
+{"label": "Major", "pattern": [{"LOWER": "internet"}, {"LOWER": "of"}, {"LOWER": "things"}]}
+{"label": "Major", "pattern": [{"LOWER": "network"}, {"LOWER": "security"}]}
+{"label": "Major", "pattern": [{"LOWER": "high"}, {"LOWER": "performance"}, {"LOWER": "computing"}]}
+{"label": "Major", "pattern": [{"LOWER": "digital"}, {"LOWER": "systems"}, {"LOWER": "and"}, {"LOWER": "design"}]}
+{"label": "Major", "pattern": [{"LOWER": "bioinformatics"}]}
+{"label": "Major", "pattern": [{"LOWER": "computational"}, {"LOWER": "biology"}]}
+{"label": "Major", "pattern": [{"LOWER": "computational"}, {"LOWER": "chemistry"}]}
+{"label": "Major", "pattern": [{"LOWER": "health"}, {"LOWER": "informatics"}]}
+{"label": "Major", "pattern": [{"LOWER": "business"}, {"LOWER": "information"}, {"LOWER": "systems"}]}
+{"label": "Major", "pattern": [{"LOWER": "educational"}, {"LOWER": "technology"}]}
+{"label": "Major", "pattern": [{"LOWER": "media"}, {"LOWER": "informatics"}]}
+{"label": "Major", "pattern": [{"LOWER": "computational"}, {"LOWER": "neuroscience"}]}
+{"label": "Major", "pattern": [{"LOWER": "geographic"}, {"LOWER": "information"}, {"LOWER": "systems"}]}
+{"label": "Major", "pattern": [{"LOWER": "computational"}, {"LOWER": "physics"}]}
+{"label": "Major", "pattern": [{"LOWER": "data"}, {"LOWER": "driven"}, {"LOWER": "journalism"}]}
+{"label": "Major", "pattern": [{"LOWER": "digital"}, {"LOWER": "humanities"}]}
+{"label": "Major", "pattern": [{"LOWER": "mechatronics"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "technology"}]}
+{"label": "Major", "pattern": [{"LOWER": "quantum"}, {"LOWER": "computing"}]}
+{"label": "Major", "pattern": [{"LOWER": "cyber"}, {"LOWER": "physical"}, {"LOWER": "systems"}]}
+{"label": "Major", "pattern": [{"LOWER": "autonomous"}, {"LOWER": "systems"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "ethical"}, {"LOWER": "hacking"}, {"LOWER": "and"}, {"LOWER": "security"}]}
+{"label": "Major", "pattern": [{"LOWER": "devops"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "ai"}, {"LOWER": "ethics"}, {"LOWER": "and"}, {"LOWER": "governance"}]}
+{"label": "Major", "pattern": [{"LOWER": "it"}, {"LOWER": "project"}, {"LOWER": "management"}]}
+{"label": "Major", "pattern": [{"LOWER": "digital"}, {"LOWER": "transformation"}]}
+{"label": "Major", "pattern": [{"LOWER": "augmented"}, {"LOWER": "intelligence"}]}
+{"label": "Major", "pattern": [{"LOWER": "smart"}, {"LOWER": "systems"}, {"LOWER": "engineering"}]}
+{"label": "Major", "pattern": [{"LOWER": "management"}, {"LOWER": "information"}, {"LOWER": "systems"}]}
+{"label": "Major", "pattern": [{"LOWER": "it"}, {"LOWER": "management"}]}
+{"label": "Major", "pattern": [{"LOWER": "business"}, {"LOWER": "analytics"}]}
+{"label": "Major", "pattern": [{"LOWER": "technology"}, {"LOWER": "management"}]}
+{"label": "Major", "pattern": [{"LOWER": "digital"}, {"LOWER": "marketing"}, {"LOWER": "analytics"}]}
+{"label": "Major", "pattern": [{"LOWER": "e"}, {"LOWER": "commerce"}, {"LOWER": "and"}, {"LOWER": "web"}, {"LOWER": "technology"}]}
+{"label": "Major", "pattern": [{"LOWER": "electrical"}, {"LOWER": "and"}, {"LOWER": "computer"}, {"LOWER": "engineering"}]}
